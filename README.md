@@ -1,1 +1,2 @@
-# calculadora_poligonos
+# Calculadora de polígonos.
+Prueba 1
